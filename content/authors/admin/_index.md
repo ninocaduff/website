@@ -42,7 +42,7 @@ education:
     - course: High School Diploma
       institution: Bündner Kantonsschule Chur
       year: 2017-2021
-
+"""
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
@@ -116,6 +116,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
+"""
 I'm Nino Caduff, a passionate Economics student at the University of St.Gallen. My coursework dives into market dynamics, financial analysis, and economic policies. Actively engaging in discussions on global financial trends, I'm committed to applying theoretical knowledge in real-world scenarios. Beyond the classroom, I participate in internships and research projects to further broaden my understanding of economics. My goal is to contribute meaningfully to the improvement of economic systems, leveraging both my academic pursuits and proactive approach to learning.
 {style="text-align: justify;"}
