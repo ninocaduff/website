@@ -25,7 +25,7 @@ organizations:
     url: https://www.unisg.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Macroeconomics and Econometrics
+bio: My interests include Economics, Banking and Finance
 
 # Interests to show in About widget
 interests:
@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm Nino Caduff, a passionate Economics student at [Your University]. My coursework dives into market dynamics, financial analysis, and economic policies. Actively engaging in discussions on global financial trends, I'm committed to applying theoretical knowledge in real-world scenarios. Beyond the classroom, I participate in internships and research projects to further broaden my understanding of economics. My goal is to contribute meaningfully to the improvement of economic systems, leveraging both my academic pursuits and proactive approach to learning.
 {style="text-align: justify;"}
