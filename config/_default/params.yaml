@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Nino Caduff. This work is licensed under {license}'
+    notice: '© {year} Nino Caduff. Some rights reserved.'
     license:
       enable: true
       allow_derivatives: false
