@@ -1,6 +1,6 @@
 ---
 # Display name
-title: HSG Bachelor of Arts in Economics
+title: Nino Caduff
 
 # Name pronunciation (optional)
 name_pronunciation:
