@@ -39,18 +39,6 @@ sections:
   - block: about.biography
     id: about
     content:
-      title: Biography
+      title: About me
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-
-  - block: contact
-    id: contact
-    content:
-      title: Contact
-      subtitle:
-      text: |-
-        Feel free to reach out :)
-      # Contact (add or remove contact options as necessary)
-    design:
-      columns: '2'
----
