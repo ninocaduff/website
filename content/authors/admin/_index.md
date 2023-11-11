@@ -120,5 +120,5 @@ social:
 highlight_name: true
 ---
 
-I'm Nino Caduff, a passionate Economics student at [Your University]. My coursework dives into market dynamics, financial analysis, and economic policies. Actively engaging in discussions on global financial trends, I'm committed to applying theoretical knowledge in real-world scenarios. Beyond the classroom, I participate in internships and research projects to further broaden my understanding of economics. My goal is to contribute meaningfully to the improvement of economic systems, leveraging both my academic pursuits and proactive approach to learning.
+I'm Nino Caduff, a passionate Economics student at the University of St.Gallen. My coursework dives into market dynamics, financial analysis, and economic policies. Actively engaging in discussions on global financial trends, I'm committed to applying theoretical knowledge in real-world scenarios. Beyond the classroom, I participate in internships and research projects to further broaden my understanding of economics. My goal is to contribute meaningfully to the improvement of economic systems, leveraging both my academic pursuits and proactive approach to learning.
 {style="text-align: justify;"}
