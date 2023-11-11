@@ -42,10 +42,10 @@ education:
     - course: High School Diploma
       institution: Bündner Kantonsschule Chur
       year: 2017-2021
-"""
+
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
+# skills:
   - name: Technical
     items:
       - name: Python
@@ -90,32 +90,32 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+   link: '/#contact'
+#  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/ninocaduff
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/ninocaduff/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
+  # - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-"""
+
 I'm Nino Caduff, a passionate Economics student at the University of St.Gallen. My coursework dives into market dynamics, financial analysis, and economic policies. Actively engaging in discussions on global financial trends, I'm committed to applying theoretical knowledge in real-world scenarios. Beyond the classroom, I participate in internships and research projects to further broaden my understanding of economics. My goal is to contribute meaningfully to the improvement of economic systems, leveraging both my academic pursuits and proactive approach to learning.
 {style="text-align: justify;"}
