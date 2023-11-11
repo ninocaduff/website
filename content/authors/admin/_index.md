@@ -90,7 +90,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: mailto:nino.caduff2@student.unisg.ch
 #  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
