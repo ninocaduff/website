@@ -38,10 +38,10 @@ education:
   courses:
     - course: BA Candidate in Economics
       institution: University of St.Gallen
-      year: 2022-2025
+      year: 2025
     - course: High School Diploma
       institution: Bündner Kantonsschule Chur
-      year: 2017-2021
+      year: 2021
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
