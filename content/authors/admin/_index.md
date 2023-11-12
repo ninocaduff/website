@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: HSG Bachelor of Arts in Economics
+role: BA Candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.unisg.ch/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include Economics, Banking and Finance
+bio: My interests include Economics, Banking and Finance, and Data Science
 
 # Interests to show in About widget
 interests:
